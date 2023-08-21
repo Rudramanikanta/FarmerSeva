@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/FarmerSeva/static/css/main.31717feb.css",
-    "main.js": "/FarmerSeva/static/js/main.1a06fe60.js",
-    "static/media/pulses.jpg": "/FarmerSeva/static/media/pulses.4c35d4b9470080260eb8.jpg",
-    "static/media/soyabean.jpg": "/FarmerSeva/static/media/soyabean.c2405c8ba1bd38a896b2.jpg",
-    "static/media/gram.jpg": "/FarmerSeva/static/media/gram.0facdb9567de6ee6016e.jpg",
-    "static/media/barley.jpg": "/FarmerSeva/static/media/barley.109e232b8839057fc5eb.jpg",
-    "static/media/maize2.jpg": "/FarmerSeva/static/media/maize2.1a6023ff3f2455f5e149.jpg",
-    "static/media/cotton.jpg": "/FarmerSeva/static/media/cotton.1a5beb98f38bbfe4011f.jpg",
-    "static/media/wheat.jpg": "/FarmerSeva/static/media/wheat.26c1d4d7bfc5d5e8ca44.jpg",
-    "static/media/peas.jpg": "/FarmerSeva/static/media/peas.c93610aaf4261d1512bf.jpg",
-    "static/media/milltes.jpg": "/FarmerSeva/static/media/milltes.5876f21fb0bb8e63a8b0.jpg",
-    "static/media/paddy2.jpg": "/FarmerSeva/static/media/paddy2.163cf8e332278c4bbf2e.jpg",
-    "static/media/bannana2.jpg": "/FarmerSeva/static/media/bannana2.fe60de38ba5970777241.jpg",
-    "static/media/tobaco.webp": "/FarmerSeva/static/media/tobaco.f2c36bef170eb1570d9c.webp",
-    "static/media/logo.jpg": "/FarmerSeva/static/media/logo.9135855c2fa19b0935e4.jpg",
-    "index.html": "/FarmerSeva/index.html",
-    "main.31717feb.css.map": "/FarmerSeva/static/css/main.31717feb.css.map",
-    "main.1a06fe60.js.map": "/FarmerSeva/static/js/main.1a06fe60.js.map"
+    "main.css": "/static/css/main.31717feb.css",
+    "main.js": "/static/js/main.df02afed.js",
+    "static/media/pulses.jpg": "/static/media/pulses.4c35d4b9470080260eb8.jpg",
+    "static/media/soyabean.jpg": "/static/media/soyabean.c2405c8ba1bd38a896b2.jpg",
+    "static/media/gram.jpg": "/static/media/gram.0facdb9567de6ee6016e.jpg",
+    "static/media/barley.jpg": "/static/media/barley.109e232b8839057fc5eb.jpg",
+    "static/media/maize2.jpg": "/static/media/maize2.1a6023ff3f2455f5e149.jpg",
+    "static/media/cotton.jpg": "/static/media/cotton.1a5beb98f38bbfe4011f.jpg",
+    "static/media/wheat.jpg": "/static/media/wheat.26c1d4d7bfc5d5e8ca44.jpg",
+    "static/media/peas.jpg": "/static/media/peas.c93610aaf4261d1512bf.jpg",
+    "static/media/milltes.jpg": "/static/media/milltes.5876f21fb0bb8e63a8b0.jpg",
+    "static/media/paddy2.jpg": "/static/media/paddy2.163cf8e332278c4bbf2e.jpg",
+    "static/media/bannana2.jpg": "/static/media/bannana2.fe60de38ba5970777241.jpg",
+    "static/media/tobaco.webp": "/static/media/tobaco.f2c36bef170eb1570d9c.webp",
+    "static/media/logo.jpg": "/static/media/logo.9135855c2fa19b0935e4.jpg",
+    "index.html": "/index.html",
+    "main.31717feb.css.map": "/static/css/main.31717feb.css.map",
+    "main.df02afed.js.map": "/static/js/main.df02afed.js.map"
   },
   "entrypoints": [
     "static/css/main.31717feb.css",
-    "static/js/main.1a06fe60.js"
+    "static/js/main.df02afed.js"
   ]
 }
