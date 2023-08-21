@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FarmerSeva/static/css/main.31717feb.css",
-    "main.js": "/FarmerSeva/static/js/main.1a06fe60.js",
+    "main.js": "/FarmerSeva/static/js/main.fe545383.js",
     "static/media/pulses.jpg": "/FarmerSeva/static/media/pulses.4c35d4b9470080260eb8.jpg",
     "static/media/soyabean.jpg": "/FarmerSeva/static/media/soyabean.c2405c8ba1bd38a896b2.jpg",
     "static/media/gram.jpg": "/FarmerSeva/static/media/gram.0facdb9567de6ee6016e.jpg",
@@ -17,10 +17,10 @@
     "static/media/logo.jpg": "/FarmerSeva/static/media/logo.9135855c2fa19b0935e4.jpg",
     "index.html": "/FarmerSeva/index.html",
     "main.31717feb.css.map": "/FarmerSeva/static/css/main.31717feb.css.map",
-    "main.1a06fe60.js.map": "/FarmerSeva/static/js/main.1a06fe60.js.map"
+    "main.fe545383.js.map": "/FarmerSeva/static/js/main.fe545383.js.map"
   },
   "entrypoints": [
     "static/css/main.31717feb.css",
-    "static/js/main.1a06fe60.js"
+    "static/js/main.fe545383.js"
   ]
 }
